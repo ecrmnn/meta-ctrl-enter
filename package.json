@@ -1,6 +1,6 @@
 {
   "name": "meta-ctrl-enter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trigger Vue methods by pressing cmd+enter, windows+enter or ctrl+enter",
   "main": "src/index.js",
   "scripts": {

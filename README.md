@@ -43,8 +43,5 @@ Vue.use(MetaCtrlEnter);
 </script>
 ```
 
-### Related
-- [meta-ctrl-enter](https://github.com/ecrmnn/meta-ctrl-enter) - This module
-
 ### License
 MIT © [Daniel Eckermann](http://danieleckermann.com)
