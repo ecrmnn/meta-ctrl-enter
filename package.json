@@ -1,0 +1,36 @@
+{
+  "name": "meta-ctrl-enter",
+  "version": "1.0.0",
+  "description": "Trigger Vue methods by pressing cmd+enter, windows+enter or ctrl+enter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecrmnn/meta-ctrl-enter"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue directive",
+    "meta",
+    "ctrl",
+    "cmd"
+  ],
+  "author": {
+    "name": "Daniel Eckermann",
+    "email": "danieleckermann@gmail.com",
+    "url": "http://danieleckermann.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecrmnn/meta-ctrl-enter/issues"
+  },
+  "homepage": "https://github.com/ecrmnn/meta-ctrl-enter",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "vue": "^2.3.2"
+  }
+}
